@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "膝小僧",
+  "base_artist": "NEE",
+  "createdAt": "2025-12-02T11:57:11.932300Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "膝小僧",
+      "artist": "NEE",
+      "has_synced": false,
+      "path": "select/pl_01_膝小僧_NEE.txt"
+    }
+  ]
+}
